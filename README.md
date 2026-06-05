@@ -17,7 +17,7 @@
 
 | 👨‍💻 Developer | 🏢 Company | 📅 Batch | 🧠 Domain |
 |:---:|:---:|:---:|:---:|
-| **Tauseef Alam** | **CodeAlpha** | **May 2026** | **Computer Vision · Deep Learning** |
+| **Rashid Ahmad** | **CodeAlpha** | **June 2026** | **Computer Vision · Deep Learning** |
 
 <br/>
 
@@ -920,7 +920,7 @@ model = YOLO('yolov8n.engine')  # 3-5× faster
 
 <div align="center">
 
-**Tauseef Alam**
+**Rashid Ahmad**
 
 *AI Intern @ CodeAlpha | May 2026 Batch*
 
